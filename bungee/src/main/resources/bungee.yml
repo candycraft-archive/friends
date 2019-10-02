@@ -1,0 +1,11 @@
+name: friends
+main: de.pauhull.friends.bungee.BungeeFriends
+version: 1.0
+author: pauhull
+
+commands:
+  friends:
+  party:
+  p:
+  partychat:
+  pc:
